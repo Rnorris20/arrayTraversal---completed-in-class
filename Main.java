@@ -6,7 +6,6 @@ class Main {
     System.out.println("The candy is " + candy[i]);
   }
   
-
   candy[6] = "kit kat";
 
   for(int i = 0; i < 7; i++);
