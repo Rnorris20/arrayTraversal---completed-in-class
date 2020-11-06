@@ -8,7 +8,7 @@ class Main {
   
   candy[6] = "kit kat";
 
-  for(int i = 0; i < 7; i++){
+  for(int i = 6; i >= 0; i--){
     System.out.println("The update " + candy[i]);
 
     }
